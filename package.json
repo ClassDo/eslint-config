@@ -1,0 +1,19 @@
+{
+  "name": "@classdo/eslint-config",
+  "version": "0.0.1",
+  "description": "Common ESLint config for ClassDo products",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ClassDo/eslint-config.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClassDo/eslint-config/issues"
+  },
+  "homepage": "https://github.com/ClassDo/eslint-config#readme"
+}
